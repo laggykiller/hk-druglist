@@ -1,0 +1,46 @@
+{
+    "HK-59201": {
+        "form": "solution",
+        "route": "injection"
+    },
+    "HK-52479": {
+        "form": "powder",
+        "route": "oral"
+    },
+    "HK-51288": {
+        "form": "solution",
+        "route": "topical"
+    },
+    "HK-41232": {
+        "form": "solution",
+        "route": "topical"
+    },
+    "HK-64491": {
+        "form": "paste",
+        "route": "oral"
+    },
+    "HK-54905": {
+        "form": "solution",
+        "route": "eye"
+    },
+    "HK-45389": {
+        "form": "powder",
+        "route": "topical"
+    },
+    "HK-55912": {
+        "form": "powder",
+        "route": "topical"
+    },
+    "HK-68089": {
+        "form": "solution",
+        "route": "topical"
+    },
+    "HK-68978": {
+        "form": "solution",
+        "route": "topical"
+    },
+    "HK-41106": {
+        "form": "capsule",
+        "route": "oral"
+    }
+}

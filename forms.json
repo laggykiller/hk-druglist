@@ -1,0 +1,180 @@
+{
+    "solution": [
+        "solution",
+        "soln",
+        "sol",
+        "iv",
+        "intravenous",
+        "inj",
+        "injection",
+        "inf",
+        "infusion",
+        "syrup",
+        "syr",
+        "suspension",
+        "concentrate",
+        "susp",
+        "mixture",
+        "mixt",
+        "expectorant",
+        "elixir",
+        "gargle",
+        "liquid",
+        "liq",
+        "water",
+        "lactulose",
+        "penfill",
+        "vaccine",
+        "syringe",
+        "syringes",
+        "injectable",
+        "paint",
+        "lacquer",
+        "irrigation",
+        "chlorhexidine",
+        "acrinol",
+        "wart",
+        "corn",
+        "caustic pencils",
+        "albumex",
+        "albumin",
+        "alutard sq",
+        "eye",
+        "eyedrops",
+        "ophth",
+        "ophthalmic",
+        "ear",
+        "spray",
+        "drop",
+        "drops",
+        "alcohol",
+        "tincture",
+        "mouthwash",
+        "mouth wash",
+        "scrub",
+        "dianeal",
+        "emulsion",
+        "tincture",
+        "sealant",
+        "intravesicle",
+        "wash",
+        "oil",
+        "liniment",
+        "rub"
+    ],
+    "tablet": [
+        "tablet",
+        "tablets",
+        "tab",
+        "tabs",
+        "lozenge",
+        "lozenges",
+        "loz",
+        "pill",
+        "pills",
+        "linctus",
+        "lyophilisate",
+        "lyophilisates",
+        "lactab"
+    ],
+    "capsule": [
+        "capsule",
+        "capsules",
+        "cap",
+        "caps",
+        "caplet",
+        "caplets",
+        "depocap"
+    ],
+    "granules": [
+        "granules"
+    ],
+    "powder": [
+        "powder",
+        "sachet",
+        "sachets",
+        "magnesium carbonate",
+        "magnesium hydroxide",
+        "magnesium trisilicate",
+        "oral rehydration salt",
+        "oral rehydration salts"
+    ],
+    "spray": [
+        "spray",
+        "mouthspray",
+        "mist",
+        "aerosal"
+    ],
+    "suppository": [
+        "suppository",
+        "supp",
+        "suppositories"
+    ],
+    "enema": [
+        "enema",
+        "enemas"
+    ],
+    "inhalant": [
+        "inhalation",
+        "inhaler",
+        "accuhaler",
+        "turbuhaler",
+        "respule"
+    ],
+    "nebuliser": [
+        "nebuliser",
+        "nebulizer"
+    ],
+    "patch": [
+        "patch",
+        "patches"
+    ],
+    "gel": [
+        "gel",
+        "jelly",
+        "jell",
+        "emulgel",
+        "dermgel",
+        "hydrogel"
+    ],
+    "cream": [
+        "cream",
+        "crm",
+        "cr"
+    ],
+    "foam": [
+        "foam"
+    ],
+    "paste": [
+        "paste",
+        "orabase"
+    ],
+    "lotion": [
+        "lotion"
+    ],
+    "ointment": [
+        "ointment",
+        "oint"
+    ],
+    "balm": [
+        "balm"
+    ],
+    "plaster": [
+        "plaster",
+        "plasters"
+    ],
+    "shampoo": [
+        "shampoo"
+    ],
+    "chewing gum": [
+        "gum"
+    ],
+    "pessary": [
+        "pessary",
+        "pessaries"
+    ],
+    "gas": [
+        "isoflurane",
+        "oxygen"
+    ]
+}

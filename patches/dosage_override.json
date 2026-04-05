@@ -1,0 +1,1475 @@
+{
+    "HK-67828": [
+        {
+            "activeIng": "palonosetron (as hydrochloride)",
+            "dosage": {
+                "weightValue": 0.25,
+                "weightUnit": "mg",
+                "volume": 20.0
+            }
+        },
+        {
+            "activeIng": "fosnetupitant (as chloride hydrochloride)",
+            "dosage": {
+                "weightValue": 235.0,
+                "weightUnit": "mg",
+                "volume": 20.0
+            }
+        }
+    ],
+    "HK-17385": [
+        {
+            "activeIng": "riboflavin",
+            "dosage": {
+                "weightValue": 5.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "thiamine disulfide",
+            "dosage": {
+                "weightValue": 50.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-30729": [
+        {
+            "activeIng": "chlorphenamine maleate",
+            "dosage": {
+                "weightValue": 1.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-50440": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-50621": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-57828": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 875.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-57827": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 400.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 57.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-57826": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 200.0,
+                "weightUnit": "mg",
+                "volume": 5.0
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 28.0,
+                "weightUnit": "mg",
+                "volume": 5.0
+            }
+        }
+    ],
+    "HK-50620": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg",
+                "volume": 5.0
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 31.25,
+                "weightUnit": "mg",
+                "volume": 5.0
+            }
+        }
+    ],
+    "HK-42003": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 100.0,
+                "weightUnit": "mg",
+                "volume": 5.0
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 25.0,
+                "weightUnit": "mg",
+                "volume": 5.0
+            }
+        }
+    ],
+    "HK-67038": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 250.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-63125": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 550.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-62186": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 1000.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 200.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-64216": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg",
+                "volume": 5.0
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 31.25,
+                "weightUnit": "mg",
+                "volume": 5.0
+            }
+        }
+    ],
+    "HK-62184": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 250.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-62185": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-49813": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 875.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-52769": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 200.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-52768": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-43330": [
+        {
+            "activeIng": "cyproterone acetate",
+            "dosage": {
+                "weightValue": 2.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "ethinyloestradiol",
+            "dosage": {
+                "weightValue": 0.035,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-50432": [
+        {
+            "activeIng": "cyproterone acetate",
+            "dosage": {
+                "weightValue": 2.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "ethinyloestradiol",
+            "dosage": {
+                "weightValue": 0.035,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-50283": [
+        {
+            "activeIng": "cyproterone acetate",
+            "dosage": {
+                "weightValue": 2.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "ethinyloestradiol",
+            "dosage": {
+                "weightValue": 0.035,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-49421": [
+        {
+            "activeIng": "dydrogesterone",
+            "dosage": {
+                "weightValue": 10.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "estradiol",
+            "dosage": {
+                "weightValue": 1.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-40939": [
+        {
+            "activeIng": "dydrogesterone",
+            "dosage": {
+                "weightValue": 10.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "estradiol",
+            "dosage": {
+                "weightValue": 2.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-49643": [
+        {
+            "activeIng": "dydrogesterone",
+            "dosage": {
+                "weightValue": 5.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "estradiol",
+            "dosage": {
+                "weightValue": 1.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-56072": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 400.0,
+                "weightUnit": "mg",
+                "volume": 5
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 57.0,
+                "weightUnit": "mg",
+                "volume": 5
+            }
+        }
+    ],
+    "HK-56069": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 200.0,
+                "weightUnit": "mg",
+                "volume": 5
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 28.5,
+                "weightUnit": "mg",
+                "volume": 5
+            }
+        }
+    ],
+    "HK-52241": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg",
+                "volume": 5
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 31.25,
+                "weightUnit": "mg",
+                "volume": 5
+            }
+        }
+    ],
+    "HK-52242": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 875.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-52246": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 250.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-52247": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-47014": [
+        {
+            "activeIng": "ceftriaxone (as sodium)",
+            "dosage": {
+                "weightValue": 1000.0,
+                "weightUnit": "mg"
+        }
+        },
+        {
+            "activeIng": "lignocaine hydrochloride",
+            "dosage": {}
+        }
+    ],
+    "HK-46251": [
+        {
+            "activeIng": "ceftriaxone (as sodium)",
+            "dosage": {
+                "weightValue": 1000.0,
+                "weightUnit": "mg"
+        }
+        },
+        {
+            "activeIng": "lignocaine hydrochloride",
+            "dosage": {}
+        }
+    ],
+    "HK-47013": [
+        {
+            "activeIng": "ceftriaxone (as sodium)",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "lignocaine hydrochloride",
+            "dosage": {}
+        }
+    ],
+    "HK-30020": [
+        {
+            "activeIng": "diclofenac sodium",
+            "dosage": {
+                "weightValue": 75.0,
+                "weightUnit": "mg",
+                "volume": 2.0
+            }
+        },
+        {
+            "activeIng": "lignocaine hydrochloride",
+            "dosage": {}
+        }
+    ],
+    "HK-60314": [
+        {
+            "activeIng": "piperacillin (as sodium)",
+            "dosage": {
+                "weightValue": 4000.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "tazobactam (as sodium)",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-64154": [
+        {
+            "activeIng": "cinnarizine",
+            "dosage": {
+                "weightValue": 25.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "pyridoxine (as hydrochloride)",
+            "dosage": {
+                "weightValue": 25.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-65637": [
+        {
+            "activeIng": "insulin glargine",
+            "dosage": {
+                "weightValue": 100.0,
+                "weightUnit": "units",
+                "volume": 1.0
+            }
+        },
+        {
+            "activeIng": "lixisenatide",
+            "dosage": {
+                "weightValue": 33.0,
+                "weightUnit": "mcg",
+                "volume": 1.0
+            }
+        }
+    ],
+    "HK-65638": [
+        {
+            "activeIng": "insulin glargine",
+            "dosage": {
+                "weightValue": 100.0,
+                "weightUnit": "units",
+                "volume": 1.0
+            }
+        },
+        {
+            "activeIng": "lixisenatide",
+            "dosage": {
+                "weightValue": 50.0,
+                "weightUnit": "mcg",
+                "volume": 1.0
+            }
+        }
+    ],
+    "HK-46883": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 250.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-46884": [
+        {
+            "activeIng": "amoxicillin (as trihydrate)",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "clavulanic acid (as potassium clavulanate)",
+            "dosage": {
+                "weightValue": 125.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-62632": [
+        {
+            "activeIng": "piperacillin (as sodium)",
+            "dosage": {
+                "weightValue": 4000.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "tazobactam (as sodium)",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-62389": [
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 325.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "tramadol hydrochloride",
+            "dosage": {
+                "weightValue": 37.5,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-61588": [
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 325.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "tramadol hydrochloride",
+            "dosage": {
+                "weightValue": 37.5,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-43033": [
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 250.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-62428": [
+        {
+            "activeIng": "cyanocobalamin",
+            "dosage": {
+                "weightValue": 200.0,
+                "weightUnit": "mcg"
+            }
+        },
+        {
+            "activeIng": "indomethacin",
+            "dosage": {
+                "weightValue": 25.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "magnesium trisilicate",
+            "dosage": {
+                "weightValue": 100.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "pyridoxine hydrochloride",
+            "dosage": {
+                "weightValue": 50.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "thiamine hydrochloride",
+            "dosage": {
+                "weightValue": 50.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-41106": [
+        {
+            "activeIng": "aspirin",
+            "dosage": {
+                "weightValue": 100.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-62433": [
+        {
+            "activeIng": "cyanocobalamin",
+            "dosage": {
+                "weightValue": 200.0,
+                "weightUnit": "mcg"
+            }
+        },
+        {
+            "activeIng": "indomethacin",
+            "dosage": {
+                "weightValue": 25.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "magnesium trisilicate",
+            "dosage": {
+                "weightValue": 100.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "pyridoxine hydrochloride",
+            "dosage": {
+                "weightValue": 50.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "thiamine hydrochloride",
+            "dosage": {
+                "weightValue": 50.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-39489": [
+        {
+            "activeIng": "orphenadrine citrate",
+            "dosage": {
+                "weightValue": 35.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 450.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-34034": [
+        {
+            "activeIng": "aspirin",
+            "dosage": {
+                "weightValue": 100.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "glycine",
+            "dosage": {
+                "weightValue": 45.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-33414": [
+        {
+            "activeIng": "codeine phosphate",
+            "dosage": {
+                "weightValue": 8.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-68258": [
+        {
+            "activeIng": "codeine phosphate",
+            "dosage": {
+                "weightValue": 10.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-62872": [
+        {
+            "activeIng": "orphenadrine citrate",
+            "dosage": {
+                "weightValue": 35.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-68984": [
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 325.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "tramadol hydrochloride",
+            "dosage": {
+                "weightValue": 37.5,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-45384": [
+        {
+            "activeIng": "diclofenac sodium",
+            "dosage": {
+                "weightValue": 25.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-18549": [
+        {
+            "activeIng": "orphenadrine citrate",
+            "dosage": {
+                "weightValue": 50.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 300.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-59693": [
+        {
+            "activeIng": "diclofenac sodium",
+            "dosage": {
+                "weightValue": 50.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 325.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-65439": [
+        {
+            "activeIng": "etoricoxib",
+            "dosage": {
+                "weightValue": 30.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-65440": [
+        {
+            "activeIng": "etoricoxib",
+            "dosage": {
+                "weightValue": 60.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-65441": [
+        {
+            "activeIng": "etoricoxib",
+            "dosage": {
+                "weightValue": 90.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-62435": [
+        {
+            "activeIng": "cyanocobalamin",
+            "dosage": {
+                "weightValue": 200.0,
+                "weightUnit": "mcg"
+            }
+        },
+        {
+            "activeIng": "indomethacin",
+            "dosage": {
+                "weightValue": 25.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "magnesium trisilicate",
+            "dosage": {
+                "weightValue": 100.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "pyridoxine hydrochloride",
+            "dosage": {
+                "weightValue": 50.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "thiamine hydrochloride",
+            "dosage": {
+                "weightValue": 50.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-50058": [
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "pheniramine maleate",
+            "dosage": {
+                "weightValue": 25.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-67065": [
+        {
+            "activeIng": "arctii fructus",
+            "dosage": {
+                "weightValue": 12.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "forsythiae fructus",
+            "dosage": {
+                "weightValue": 19.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "glycyrrhizae radix et rhizoma",
+            "dosage": {
+                "weightValue": 10.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "lonicerae japonicae flos",
+            "dosage": {
+                "weightValue": 19.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "lophatheri herba",
+            "dosage": {
+                "weightValue": 7.43,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "menthol",
+            "dosage": {
+                "weightValue": 0.37,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 44.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "platycodonis radix",
+            "dosage": {
+                "weightValue": 75.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "schizonepetae spica",
+            "dosage": {
+                "weightValue": 0.2,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "sojae semen praeparatum",
+            "dosage": {
+                "weightValue": 10.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-61954": [
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 325.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "tramadol hydrochloride",
+            "dosage": {
+                "weightValue": 37.5,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-67528": [
+        {
+            "activeIng": "Ibuprofen (as sodium dihydrate)",
+            "dosage": {
+                "weightValue": 300.0,
+                "weightUnit": "mg",
+                "volume": 100.0
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 1000.0,
+                "weightUnit": "mg",
+                "volume": 100.0
+            }
+        }
+    ],
+    "HK-65649": [
+        {
+            "activeIng": "ibuprofen",
+            "dosage": {
+                "weightValue": 150.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-01207": [
+        {
+            "activeIng": "methadone hydrochloride",
+            "dosage": {
+                "weightValue": 5.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-44887": [
+        {
+            "activeIng": "orphenadrine citrate",
+            "dosage": {
+                "weightValue": 35.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-55766": [
+        {
+            "activeIng": "orphenadrine citrate",
+            "dosage": {
+                "weightValue": 35.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-67164": [
+        {
+            "activeIng": "orphenadrine citrate",
+            "dosage": {
+                "weightValue": 35.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 450.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-62131": [
+        {
+            "activeIng": "chlorzoxazone",
+            "dosage": {
+                "weightValue": 250.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 300.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-01588": [
+        {
+            "activeIng": "pizotifen (as malate)",
+            "dosage": {
+                "weightValue": 0.5,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-59231": [
+        {
+            "activeIng": "orphenadrine citrate",
+            "dosage": {
+                "weightValue": 35.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 450.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-62441": [
+        {
+            "activeIng": "cyanocobalamin",
+            "dosage": {
+                "weightValue": 200.0,
+                "weightUnit": "mcg"
+            }
+        },
+        {
+            "activeIng": "indomethacin",
+            "dosage": {
+                "weightValue": 25.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "magnesium trisilicate",
+            "dosage": {
+                "weightValue": 100.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "pyridoxine hydrochloride",
+            "dosage": {
+                "weightValue": 50.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "thiamine hydrochloride",
+            "dosage": {
+                "weightValue": 50.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-68983": [
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 325.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "tramadol hydrochloride",
+            "dosage": {
+                "weightValue": 37.5,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-50756": [
+        {
+            "activeIng": "diclofenac sodium",
+            "dosage": {
+                "weightValue": 75,
+                "weightUnit": "mg",
+                "volume": 2.0
+            }
+        },
+        {
+            "activeIng": "lignocaine hydrochloride",
+            "dosage": {
+                "volume": 2.0
+            }
+        }
+    ],
+    "HK-62152": [
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 325.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "tramadol hydrochloride",
+            "dosage": {
+                "weightValue": 37.5,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-64581": [
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 325.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "tramadol hydrochloride",
+            "dosage": {
+                "weightValue": 37.5,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-28632": [
+        {
+            "activeIng": "orphenadrine citrate",
+            "dosage": {
+                "weightValue": 35.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 450.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-66417": [
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 325.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "tramadol hydrochloride",
+            "dosage": {
+                "weightValue": 37.5,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-60822": [
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 325.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "tramadol hydrochloride",
+            "dosage": {
+                "weightValue": 37.5,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-62530": [
+        {
+            "activeIng": "orphenadrine citrate",
+            "dosage": {
+                "weightValue": 35.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 450.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-43954": [
+        {
+            "activeIng": "hyoscine butylbromide",
+            "dosage": {
+                "weightValue": 10.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 500.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-68234": [
+        {
+            "activeIng": "aspirin",
+            "dosage": {
+                "weightValue": 100.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "glycine",
+            "dosage": {
+                "weightValue": 45.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-37120": [
+        {
+            "activeIng": "diclofenac sodium",
+            "dosage": {
+                "weightValue": 75.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-00170": [
+        {
+            "activeIng": "diclofenac sodium",
+            "dosage": {
+                "weightValue": 25.0,
+                "weightUnit": "mg"
+            }
+        }
+    ],
+    "HK-65425": [
+        {
+            "activeIng": "paracetamol",
+            "dosage": {
+                "weightValue": 325.0,
+                "weightUnit": "mg"
+            }
+        },
+        {
+            "activeIng": "tramadol hydrochloride",
+            "dosage": {
+                "weightValue": 37.5,
+                "weightUnit": "mg"
+            }
+        }
+    ]
+}

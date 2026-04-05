@@ -1,0 +1,4 @@
+xmlschema
+BeautifulSoup
+pdfplumber
+tqdm
