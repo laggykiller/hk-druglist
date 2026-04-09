@@ -60,7 +60,8 @@
         "wash",
         "oil",
         "liniment",
-        "rub"
+        "rub",
+        "linctus"
     ],
     "tablet": [
         "tablet",
@@ -72,7 +73,6 @@
         "loz",
         "pill",
         "pills",
-        "linctus",
         "lyophilisate",
         "lyophilisates",
         "lactab"
